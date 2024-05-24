@@ -1,7 +1,6 @@
 baseURL = "/"
 title = "mathlads"
 theme = "hugoplate"
-timeZone = "Vietnam/Ho_Chi_Minh"
 paginate = 2
 summaryLength = 10
 disableLanguages = [
