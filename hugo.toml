@@ -3,10 +3,7 @@ title = "mathlads"
 theme = "hugoplate"
 paginate = 2
 summaryLength = 10
-disableLanguages = [
-]
-defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = false
+languageCode = 'en-us'
 
 [services]
 [services.googleAnalytics]
