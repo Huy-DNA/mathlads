@@ -4,7 +4,7 @@ logo_darkmode = "images/logo-darkmode.png"
 logo_width = "160px"
 logo_height = "32px"
 logo_webp = true
-logo_text = "Hugoplate"
+logo_text = "Mathlads"
 navbar_fixed = true
 
 theme_switcher = true
