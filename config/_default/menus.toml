@@ -31,6 +31,11 @@ pageRef = "/about"
 weight = 1
 
 [[footer]]
+name = "Authors"
+pageRef = "/authors"
 weight = 2
+
+[[footer]]
 name = "Contact"
 pageRef = "/contact"
+weight = 3
