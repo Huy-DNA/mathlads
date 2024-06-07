@@ -11,27 +11,18 @@ weight = 2
 
 [[main]]
 weight = 3
-name = "Pages"
-
-[[main]]
-parent = "Pages"
 name = "Blog"
 pageRef = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
-
-[[main]]
-parent = "Pages"
+weight = 4
 name = "Authors"
 pageRef = "/authors"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-pageRef = "/categories"
+weight = 5
+name = "Contact"
+pageRef = "/contact"
 
 # footer menu
 [[footer]]
@@ -39,3 +30,7 @@ name = "About"
 pageRef = "/about"
 weight = 1
 
+[[footer]]
+weight = 2
+name = "Contact"
+pageRef = "/contact"
