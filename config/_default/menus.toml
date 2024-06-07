@@ -19,11 +19,6 @@ weight = 4
 name = "Authors"
 pageRef = "/authors"
 
-[[main]]
-weight = 5
-name = "Contact"
-pageRef = "/contact"
-
 # footer menu
 [[footer]]
 name = "About"
@@ -34,8 +29,3 @@ weight = 1
 name = "Authors"
 pageRef = "/authors"
 weight = 2
-
-[[footer]]
-name = "Contact"
-pageRef = "/contact"
-weight = 3
