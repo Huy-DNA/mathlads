@@ -72,16 +72,31 @@ maxAge = "720h"
 
 
 [markup]
-[markup.goldmark.renderer]
-unsafe = true
-
 [markup.highlight]
 style = 'monokai'
+
 
 [markup.tableOfContents]
 startLevel = 2
 endLevel = 5
 ordered = true
+
+
+[markup.goldmark]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.extensions]
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)']]
+
+[params]
+math = true
 
 
 [mediaTypes]
