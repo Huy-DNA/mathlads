@@ -1,5 +1,7 @@
 ---
 title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Blog Posts"
+description: "A list of mathematical blog posts"
 ---
+
+# Blogs

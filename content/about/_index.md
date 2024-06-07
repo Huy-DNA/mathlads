@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
+title: "About"
 meta_title: "About"
-description: "this is meta description"
+description: "Team introduction of Mathlads"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+We are a group of 7 HCMUT (Ho Chi Minh University of Technology) students aspiring to build a stable mathematical foundation for applied sciences, especially AI and Machine Learning. Therefore, our posts will mostly be fundamental, covering Linear algebraic, Calculus, Numerical Anlytical topics.
+
+We aim to provide a digestible, fun and in-depth demonstration of the most basic knowledge.
