@@ -73,17 +73,17 @@
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
-  <section class="section-sm {{ if not (modBool $i 2) }}bg-gradient{{ end }}" id="{{ .id }}">
+  <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}" id="{{ .id }}">
       <div class="container">
         <div class="row items-center justify-between">
           <div
-            class="mb:md-0 {{ if (modBool $i 2) }}
+            class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-5 mb-6">
             {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
           </div>
           <div
-            class="{{ if (modBool $i 2) }}
+            class="{{ if not (modBool $i 2) }}
               md:order-1
             {{ end }} md:col-7 lg:col-6">
             <h2 class="mb-4">
