@@ -12,7 +12,7 @@ tag = 'tags'
 
 [services]
 [services.googleAnalytics]
-ID = 'G-MEASUREMENT_ID'
+ID = 'G-8MEDB358TB'
 
 [services.disqus]
 shortname = 'themefisher-template'
