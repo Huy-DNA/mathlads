@@ -14,7 +14,7 @@ mainSections = ["blog"]
 
 contact_form_action = "#"
 
-google_tag_manager = ""
+google_tag_manager = "GTM-MLVSGF54"
 google_adsense = ""
 
 custom_script = ""
