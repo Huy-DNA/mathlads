@@ -5,6 +5,10 @@ paginate = 2
 summaryLength = 10
 languageCode = 'en-us'
 
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+
 [services]
 [services.googleAnalytics]
 ID = 'G-MEASUREMENT_ID'
