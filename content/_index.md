@@ -3,7 +3,6 @@
 banner:
   title: "Welcome to Mathlads"
   content: "Mathlads is a foundational mathematical blog aiming to build knowledge from the ground up to broader topics such as AI and ML."
-  image: "/images/banner.jpg"
   button:
     enable: true
     label: "Get started"
