@@ -16,6 +16,8 @@ features:
     bulletpoints:
       - "Linear Algebra"
       - "Calculus"
+      - "Statistic"
+      - "Numerical analysis"
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
