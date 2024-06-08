@@ -15,10 +15,18 @@ series:
   image: "/images/series.png"
   content: "We have categorized related blog posts and order them in ascending complexity order. Pick a series that you are interested in!"
   bulletpoints:
-    - "Linear Algebra"
-    - "Calculus"
-    - "Statistic"
-    - "Numerical analysis"
+    - name: "Linear Algebra"
+      ref: "#linear-algebra"
+
+    - name: "Calculus"
+      ref: "#calculus"
+
+    - name: "Statistic"
+      ref: "#statistics"
+
+    - name: "Numerical analysis"
+      ref: "#numerical-analysis"
+
 
 # Features
 features:

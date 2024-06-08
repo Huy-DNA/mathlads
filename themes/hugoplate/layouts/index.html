@@ -51,8 +51,10 @@
             <ul>
               {{ range .bulletpoints }}
                 <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
-                  {{ . | markdownify }}
+                  <a href="{{ .ref }}">  
+                    <i class="fa fa-arrow-right absolute left-0 top-1"></i>
+                    {{ .name | markdownify }}
+                  </a>
                 </li>
               {{ end }}
             </ul>
