@@ -33,21 +33,21 @@ features:
   - title: "Linear Algebra"
     id: "linear-algebra"
     image: "/images/service-2.png"
-    content: ""
+    content: "Linear Algebra is a mathematical field that deals with vectors and matrices and, more generally, with vector spaces and linear transformations. Its value lies in its many applications, from mathematical physics to modern algebra and coding theory."
     bulletpoints:
       - ""
 
   - title: "Calculus"
     id: "calculus"
     image: "/images/service-3.png"
-    content: ""
+    content: "While algebra studies about generalization of arithmetic opeartions, calculus reveals the knowledge about continuos changes. Today, calculus has widespread application in science and engineering, from theoretical to application fields. This series will be based on two courses of Calculus of our school and more deeper knowledge on proving theorem if possible."
     bulletpoints:
       - ""
 
   - title: "Statistic"
     id: "statistic"
     image: "/images/service-2.png"
-    content: ""
+    content: "Statistics is a mathematical body of science that relates to the collection, analysis, interpretation or explanation, and presentation of data. In this series, we will talk many topics including mainly about probability theory, distributions of data, and statistical hypothesis test."
     bulletpoints:
       - ""
   
