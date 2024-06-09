@@ -54,7 +54,7 @@ features:
   - title: "Numerical Analysis"
     id: "numerical-analysis"
     image: "/images/service-3.png"
-    content: ""
+    content: "Many real-world problems can be modeled mathematically into equations. Finding their exact roots value is almost impossible (in fact, proving those equations exists solution alone has been a tough task already). In real life however, approximation of those values is enough to apply in engineering and many other aspects. The background of those approximation techniques is the content of numerical analysis. In this series, we will discover exactly the theory of those knowledge."
     bulletpoints:
       - ""
 ---
