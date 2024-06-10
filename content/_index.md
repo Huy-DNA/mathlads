@@ -21,7 +21,7 @@ series:
     - name: "Calculus"
       ref: "#calculus"
 
-    - name: "Statistic"
+    - name: "Statistics"
       ref: "#statistics"
 
     - name: "Numerical analysis"
@@ -42,8 +42,8 @@ features:
     content: "Calculus is fundamental for analyzing change and motion, and it is widely used in science, engineering, and economics. This series covers the essential principles of limits, derivatives, and integrals, which form the basis for understanding dynamic systems. Learning calculus will enable you to solve problems involving rates of change, optimize functions, and model real-world phenomena accurately."
     bulletpoints:
 
-  - title: "Statistic"
-    id: "statistic"
+  - title: "Statistics"
+    id: "statistics"
     image: "/images/service-2.png"
     content: "Statistics is crucial for making data-driven decisions in various fields, including social sciences, business, and healthcare. This series introduces the basics of summarizing data, understanding probability, and making inferences about populations from samples. By learning statistics, you will gain the skills to analyze data, test hypotheses, and draw reliable conclusions, enhancing your ability to make informed decisions."
     bulletpoints:
