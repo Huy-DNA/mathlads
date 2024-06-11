@@ -53,7 +53,7 @@
                 <li class="relative mb-4 pl-6 transition-all transform hover:translate-x-4">
                   <a href="{{ .ref }}">
                     <i class="fa fa-arrow-right absolute left-0 top-1"></i>
-                    {{ .name | markdownify }}
+                    <span class="hover:underline">{{ .name | markdownify }}</span>
                   </a>
                 </li>
               {{ end }}
