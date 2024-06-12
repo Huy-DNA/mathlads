@@ -5,16 +5,11 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
-pageRef = "/about"
 weight = 2
-
-[[main]]
-weight = 3
 name = "Blog"
 pageRef = "/blog"
 
 [[main]]
-weight = 4
+weight = 3
 name = "Authors"
 pageRef = "/authors"
