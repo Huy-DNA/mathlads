@@ -18,14 +18,3 @@ pageRef = "/blog"
 weight = 4
 name = "Authors"
 pageRef = "/authors"
-
-# footer menu
-[[footer]]
-name = "About"
-pageRef = "/about"
-weight = 1
-
-[[footer]]
-name = "Authors"
-pageRef = "/authors"
-weight = 2
